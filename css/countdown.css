@@ -11,7 +11,7 @@ body {
     width: 500px;
     margin: 25px auto;
     border: 1px solid rgba(255,255,255,.2);
-    background: #092f6e url(satellite_dish.jpg) no-repeat center bottom;
+    background: #092f6e url(../images/satellite_dish.jpg) no-repeat center bottom;
     min-height: 575px;
 }
 
